@@ -1,0 +1,10 @@
+
+source .zshrc
+mousepad .zshrc
+
+go path => pest it on zshrc end
+export GOPATH=$HOME/go
+export GOROOT=/usr/local/go
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+
+source .zshrc
