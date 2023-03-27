@@ -8,3 +8,6 @@ export GOROOT=/usr/local/go
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 
 source .zshrc
+
+
+https://drive.google.com/file/d/1DpQan8hf_1mBnPJ1it8-CnaCCzE7EPH9/view?fbclid=IwAR3Vbt_ruFt5L1CyaZgjX1Xk0z5UGGDuad550Z9-PxDIpNUuGnNSQg223HQ
